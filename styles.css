@@ -288,7 +288,7 @@ h1 {
 .card-grid {
   display: grid;
   gap: 18px;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   margin-top: 38px;
 }
 
@@ -595,4 +595,3 @@ a.card:hover {
     transition: none;
   }
 }
-
